@@ -1,7 +1,7 @@
 # SoftVC VITS Singing Voice Conversion
 
 ## 强调！！！！！！！！！！！！
-SoVits是语音转换 (说话人转换)，作用是将一个音频中语音的音色转化为目标说话人的音色，并不是TTS (文本转语音)，SoVits和Vits是两个不同的项目，请不要搞混，要训练TTS请前往 [Vits](https://github.com/jaywalnut310/vits)
+SoVits是语音转换 (说话人转换)，作用是将一个音频中语音的音色转化为目标说话人的音色，并不是TTS (文本转语音)，SoVits虽然基于Vits开发，但两者是两个不同的项目，请不要搞混，要训练TTS请前往 [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
 
 ## 使用规约
 1. 请自行解决数据集的授权问题，任何由于使用非授权数据集进行训练造成的问题，需自行承担全部责任和一切后果，与sovits无关！
